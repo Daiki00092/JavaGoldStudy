@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="Functionalinterface"/>
 	<classpathentry kind="src" path="Function"/>
 	<classpathentry kind="src" path="StreamAPI"/>
+	<classpathentry kind="src" path="JDBC"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

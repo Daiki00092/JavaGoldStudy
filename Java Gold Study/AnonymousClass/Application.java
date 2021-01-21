@@ -24,6 +24,8 @@ public class Application {
 			System.out.println(l);
 		};
 		
+		//aa
+		
 		Stream.of(list).forEach(consumer);
 	}
 }
